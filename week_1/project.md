@@ -1,4 +1,12 @@
 # formula calculator
+
+## Program flowchart
+ here is the flowchart of the algorithm
+
+![Flowchart](flowchart.png)
+
+
+
 ## what it does
 the aim of the project is to create an interface to calculate:
 1. simple interest
@@ -85,7 +93,3 @@ in the case of someone putting a different option which can create an error, we 
 else:
         print("Please enter 1, 2, 3, or 4.")
 ```
-## Program flowchart
-for a more pictoral example, here is the flowchart of the algorithm
-
-![Flowchart](flowchart.png)
